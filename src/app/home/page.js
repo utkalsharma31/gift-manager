@@ -69,7 +69,7 @@ export default function HomePage() {
           className="bg-purple-500 text-white p-8 rounded-lg shadow-lg hover:bg-purple-600 transition-colors duration-300 cursor-pointer transform hover:-translate-y-1"
         >
           <h2 className="text-2xl font-semibold mb-4 text-center">Events</h2>
-          <p className="text-center">View all events you've created or contributed to.</p>
+          <p className="text-center">View all events you have created or contributed to.</p>
         </div>
       </div>
 
